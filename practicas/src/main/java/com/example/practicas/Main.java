@@ -10,7 +10,7 @@ public class Main {
         char caracter = 'a';
         boolean esValido =true;
 
-        enteroNormal = 4 * 6 ;
+        enteroNormal = 4 * 7 ;
         enteroLargo = 239472343872L;
 
         System.out.println(enteroCorto) ;
