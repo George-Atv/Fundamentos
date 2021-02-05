@@ -1,0 +1,3 @@
+include ':practicas'
+include ':app'
+rootProject.name = "Fundamentos"
